@@ -1,5 +1,5 @@
 {
-  "name": "markdown-it-footnote",
+  "name": "markdown-it-footnote-6du",
   "version": "3.0.2",
   "description": "Footnotes for markdown-it markdown parser.",
   "keywords": [
@@ -14,13 +14,13 @@
     "test": "make test"
   },
   "devDependencies": {
-    "browserify": "^16.2.3",
-    "coveralls": "^3.0.2",
-    "eslint": "^5.9.0",
+    "browserify": "^16.3.0",
+    "coveralls": "^3.0.5",
+    "eslint": "^6.1.0",
     "istanbul": "^0.4.5",
     "markdown-it": "markdown-it/markdown-it",
-    "markdown-it-testgen": "~0.1.0",
-    "mocha": "^5.2.0",
-    "terser": "^3.17.0"
+    "markdown-it-testgen": "~0.1.6",
+    "mocha": "^6.2.0",
+    "terser": "^4.1.2"
   }
 }
